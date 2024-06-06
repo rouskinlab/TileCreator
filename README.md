@@ -12,11 +12,15 @@ It is based on the original olaygo.py script found in seismic-rna by Matthew F. 
 
 2) Output data: the script will output a fasta file with all the pairs of primers. 
 
-3) Usage: << python TileCreator.py input.fasta output.fasta tile_size tm >> 
+3) Usage:
+
+`python TileCreator.py input.fasta output.fasta tile_size tm`
 
 Where tile_size is the desired size for the tiles, so a number of nucleotides; and tm is the desired melting temperature (number). 
 
-Example: << python TileCreator.py mRNA.fa primers.fa 400 60 >>
+Example: 
+
+`python TileCreator.py mRNA.fa primers.fa 400 60`
 
 4) Posterior analysis: seismic-rna can be used to stitch together the tiles. 
 
@@ -26,7 +30,11 @@ TileCreatorApp is just the addition of a user interface to TileCreator.
 
 0) Before you start: you will need to have installed python, biopython, ttkbootstrap and tkinter. 
 
-1) Usage: << python TileCreatorApp.py >> Then just use the user interface. 
+1) Usage:
+
+`python TileCreatorApp.py`
+
+Then just work your way through the user interface. 
 
 # Standalone TileCreatorApp
 

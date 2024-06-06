@@ -40,6 +40,6 @@ Then just work your way through the user interface.
 
 Alternatively, an standalone app can be used that requires no interaction with the command line. Only available for MacOS for the moment. Please bear in mind that it takes a long time to open, but then is works quickly. 
 
-Download from here: [https://sourceforge.net/projects/tidecreator/files/latest/download](https://sourceforge.net/projects/tilecreator/)
+Download from here: https://tilecreator.sourceforge.io
 
 
